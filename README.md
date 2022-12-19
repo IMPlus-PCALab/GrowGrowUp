@@ -19,8 +19,8 @@ Some experiences for new researchers (major in deep learning) to grow grow up
 
 `How to write qualified research papers:`
 
-> * **Suggestions for paper writing** [IMPlus@PCALab_浅谈论文写作_baiducloud](https://pan.baidu.com/s/1HlYfXJeeYeqHVkkpaSeMMw) code：plus 
+> * **Suggestions for paper writing** [IMPlus@PCALab_浅谈论文写作_baidu](https://pan.baidu.com/s/1HlYfXJeeYeqHVkkpaSeMMw) code：plus  
 > (组内整理的快速、凝练、实用的论文写作经验技巧)
 >
-> * **Curriculums for paper writing** [Writing Curriculums from Mingming Chen](https://mmcheng.net/writing/)
+> * **Curriculums for paper writing** [Writing Curriculums from Mingming Chen](https://mmcheng.net/writing/)  
 > (南开程明明老师的论文写作课程，内容详实，覆盖面广)
