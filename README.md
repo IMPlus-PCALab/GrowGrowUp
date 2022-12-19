@@ -2,7 +2,7 @@
 Some experiences for new researchers (major in deep learning) to grow grow up
 
 ### Fresh Village (新手村成长手册)
-`We highly suggest you to master basic usage of [linux](), [git](), [tmux](), [vscode]().` 
+`We highly suggest you to master basic usage of` [linux](), [git](), [tmux](), [vscode](https://pan.baidu.com/s/16Q-MQpCUhMpzh2W4mtCPbA).
 
 > * **linux**: basic linux commands are used for communicating with your GPU/CPU servers;  
 > (我们的服务器通常是linux系统。我们需要掌握基础的linux命令以便于于服务器沟通；）
@@ -14,12 +14,13 @@ Some experiences for new researchers (major in deep learning) to grow grow up
 > (tmux用于后台运行程序和实验，这样可以避免需要一直连接服务器的需求；)
 > 
 > * **vscode**: vscode is a wonderful tool to debug/write your deep learning projects!  
-> (vscode永远的神，丝滑debug，极致编码体验，都去用它用它！)
+> (vscode永远的神，丝滑debug，极致编码体验，都去用它用它！)  
+> [IMPlus@PCALab_vscode服务器远程debug深度学习代码程序](https://pan.baidu.com/s/16Q-MQpCUhMpzh2W4mtCPbA) code：plus
 
 
 `How to write qualified research papers:`
 
-> * **Suggestions for paper writing** [IMPlus@PCALab_浅谈论文写作_baidu](https://pan.baidu.com/s/1HlYfXJeeYeqHVkkpaSeMMw) code：plus  
+> * **Suggestions for paper writing** [IMPlus@PCALab_浅谈论文写作](https://pan.baidu.com/s/1HlYfXJeeYeqHVkkpaSeMMw) code：plus  
 > (组内整理的快速、凝练、实用的论文写作经验技巧)
 >
 > * **Curriculums for paper writing** [Writing Curriculums from Mingming Chen](https://mmcheng.net/writing/)  
