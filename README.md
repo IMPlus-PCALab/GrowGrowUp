@@ -23,5 +23,8 @@ Some experiences for new researchers (major in deep learning) to grow grow up
 > * **Suggestions for paper writing** [IMPlus@PCALab_浅谈论文写作](https://pan.baidu.com/s/1HlYfXJeeYeqHVkkpaSeMMw)  
 > (组内整理的快速、凝练、实用的论文写作经验技巧)
 >
+> * **Suggestions for paper writing details** [IMPlus@PCALab_浅谈学术写作细节](https://pan.baidu.com/s/1Qdq3Xr3rs4e3UUFYfHg3og)  
+> (组内整理的论文写作呈现细节，涉及论文一致性、图表展现等内容)
+>
 > * **Curriculums for paper writing** [Writing Curriculums from Mingming Chen](https://mmcheng.net/writing/)  
 > (南开程明明老师的论文写作课程，内容详实，覆盖面广)
