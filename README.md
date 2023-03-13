@@ -1,6 +1,8 @@
 # GrowGrowUp (IMPlus@PCALab)
 Some experiences for new researchers (major in deep learning) to grow grow up
 
+First of all, please go through the **pytorch tutorial of [Dive into DL](https://tangshusen.me/Dive-into-DL-PyTorch/#/)**. 
+
 ### Fresh Village (新手村成长手册) code：plus
 `We highly suggest you to master basic usage of` [git](https://pan.baidu.com/s/1Vqt6CU7M-7YaKMDZgfYmsg), [tmux](https://pan.baidu.com/s/1ikcNPMHhaWE1rtcPQCJIag), [vscode](https://pan.baidu.com/s/16Q-MQpCUhMpzh2W4mtCPbA).
 
